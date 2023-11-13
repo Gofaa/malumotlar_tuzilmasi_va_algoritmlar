@@ -1,0 +1,21 @@
+LINKED LIST - BU KETMA-KETLIGI XOTIRADAGI JOYLASHUVIGA BOG'LIQ BO'LMAGAN CHIZIQLI MA'LUMOTLAR TO'PLAMI
+* RO'YXATNING HAR BIR ELEMENTI KEYINGI ELEMENTGA ISHORA QILADI
+* MA'LUMOTLAR TUZILMASI SIFATIDA LL NI BIR-BIRIGA BOG'LANGAN TUGUNLAR KO'RINISHIDA TASAVVUR QILAMIZ
+* HAR BIR TUGUN O'Z QIYMATINI VA KEYINGI ELEMENT MANZILINI SAQLAYDI
+
+ARRAYNI AFZALLIKLARI
+"Tez o'qish/qidirish, Har bir element kamroq xotira egallaydi"
+ARRAYNI KAMCHILIKLARI
+"Sekin qo'shish o'chirish, o'zgarmas hajm, xotiradan samarasiz foydalanish"
+
+LINKED LISTNI AFZALLIKLARI
+"Tez yozish/o'chirish, o'zgaruvchan hajmga ega,Xotiradan samarali foydalanish"
+
+LINKED LISTNI KAMCHILIKLARI
+"Sekin qidirish, Har bir element xotiradan ko'proq joy egallaydo , o'z qiymati va keyingi element manzili"
+
+SINGLY LINKED LIST - Bir tomonlama ro'yxat, avvalgi element keyingi elementga bog'langan va oxirgi element xech qayerga ishora qilmaydi
+
+CIRCULAR LINKED LIST - Aylana ro'yxat, avvalgi element keyingi elementga ishora qiladi va oxirgi element birinchi elementga ishora qiladi
+
+DOUBLY LINKED LIST - Ikki tomonlama ro'yxat, har bir element o'zini va undan keyngi elementga ishora qiladi
